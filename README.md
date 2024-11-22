@@ -220,7 +220,7 @@ We need contributions! If you have a great idea for PowerSploit, we'd love to ad
 * The script must adhere to the style guide. Any exceptions to the guide line would need an explicit, valid reason.
 * The module manifest needs to be updated to reflect the new function being added.
 * A brief description of the function should be added to this README.md
-* Pester tests must accompany all new functions. See the Tests folder for examples but we are looking for tests that at least cover the basics by testing for expected/unexpected input/output and that the function exhibits desired functionality. Make sure the function is passing all tests (preferably in mutiple OSes) prior to submitting a pull request. Thanks!
+* Pester tests must accompany all new functions. See the Tests folder for examples but we are looking for tests that at least cover the basics by testing for expected/unexpected input/output and that the function exhibits desired functionality. Make sure the function is passing all tests (preferably in multiple OSes) prior to submitting a pull request. Thanks!
 
 ## Script Style Guide
 
